@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+D:\DPfinal\Project Outputs for DPfinal\Pick Place for FinalPCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24-06-25
+Time:       11:45
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment            Layer       Footprint                 Center-X(mm) Center-Y(mm) Rotation Description                                                                                               
+U2         ADPD1080WBCPZR7    BottomLayer ADPD1080WBCPZR7           113.0486     96.3014      180      "Optical Afe For Health Monitorin"                                                                        
+U7         STTS22HTR          BottomLayer FP-UDFN-6L-DM00423052-MFG 106.9086     80.0100      270      "LOW-VOLTAGE, ULTRA-LOW-POWER, 0."                                                                        
+""         TS3425PA           TopLayer    TS3425PA                  122.9165     74.7018      90       ""                                                                                                        
+B1         TS3425PA           TopLayer    TS3425PA                  122.9782     78.0948      90       ""                                                                                                        
+U1         STM32WB5MMGH6TR    TopLayer    STM32WB5MMGH6TR           103.5167     88.4207      0        "RISC Microcontroller, 32-Bit, FLASH, CORTEX-M4F CPU, 180MHz, CMOS, PBGA216"                              
+DS1        LTST-S220KGKT      BottomLayer LTST-S220KGKT_V           108.2645     90.3986      55       "LED Green, 75 mW, 30 mA, -30 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"                                 
+D6         "SFH 2716 A01"     BottomLayer SFH_2716_A01              113.6410     89.0872      270      "Silicon PIN Photodiode with V? Characteristics, -40 to 100 °C, 1.3 x 2 x 0.8 mm"                         
+U3         MAX1722EZK+T       TopLayer    FP-Z5-1-IPC_A             121.1809     89.9230      180      "IC REG BOOST ADJ 400MA TSOT23-5"                                                                         
+R2         AC0402FR-07160KL   TopLayer    FP-AC0402-IPC_B           122.1232     94.2086      90       "RES 160kO ±1% 0.063W 0402"                                                                               
+R1         RC1206FR-07100KL   TopLayer    RESC3116X65X40ML10T20     118.7931     93.6520      180      "Chip Resistor, 100 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 1206 (3216 Metric), RoHS, Tape and Reel"       
+L1         SWPA6028S100MT     TopLayer    SWPA6028S100MT            122.2141     84.2364      0        "6.0x6.0x2.8 10uH ±20% DCR=94m? 1.95A SRF=23MHz ??:??"                                                    
+C7         CL10A106MA8NRNC    TopLayer    FP-CL10-IPC_A             117.1364     89.8784      270      "Cap Ceramic 10uF 25V X5R ±20% Pad SMD 0603 +85°C T/R"                                                    
+C6         CL10A106MA8NRNC    TopLayer    FP-CL10-IPC_A             114.5540     89.8784      270      "Cap Ceramic 10uF 25V X5R ±20% Pad SMD 0603 +85°C T/R"                                                    
+C8         CL10A106MA8NRNC    TopLayer    FP-CL10-IPC_A             125.0442     89.6772      90       "Cap Ceramic 10uF 25V X5R ±20% Pad SMD 0603 +85°C T/R"                                                    
+C5         C0402C104K3RACTU   BottomLayer FP-C0402-BB-MFG           101.7270     89.2810      0        "Cap Ceramic 0.1uF 25V X7R 10% Pad SMD 0402 125C T/R"                                                     
+C3         CL10A106MA8NRNC    BottomLayer FP-CL10-IPC_A             102.5652     87.2236      0        "Cap Ceramic 10uF 25V X5R ±20% Pad SMD 0603 +85°C T/R"                                                    
+D4         "LS R976-NR-1"     BottomLayer FP-LS_R976-MFG            119.1158     90.5655      120      "LED RED DIFFUSED 0805 SMD"                                                                               
+D3         "SFH 2400 FA"      BottomLayer SFH_2400_FA               113.3019     85.4697      180      ""                                                                                                        
+D2         "SFH 2716 A01"     BottomLayer SFH_2716_A01              111.6293     88.7613      270      "Silicon PIN Photodiode with V? Characteristics, -40 to 100 °C, 1.3 x 2 x 0.8 mm"                         
+D1         "SFH 2704"         BottomLayer FP-SFH_2704-MFG           115.7556     89.0097      0        "SENSOR PHOTODIODE 900NM 2SMD"                                                                            
+J1         ZF5S-15-01-T-WT    TopLayer    ZF5S-15-01-T-WT           113.1892     74.6576      0        "FFC & FPC Connectors Zero Insertion Force Connector for FFC, 0.50 mm (.0197) Pitch"                      
+U5         LK112SM18TR        TopLayer    SOT23-5L_M                109.7021     97.7602      90       "200mA, Low Noise Low Drop Voltage Regulator with Shutdown Function, 1.8V, 5-Pin SOT23-5L, Tape and Reel" 
+U6         LK112SM18TR        TopLayer    SOT23-5L_M                117.8735     97.8754      270      "200mA, Low Noise Low Drop Voltage Regulator with Shutdown Function, 1.8V, 5-Pin SOT23-5L, Tape and Reel" 
+C9         C0402C104K3RACTU   BottomLayer FP-C0402-BB-MFG           116.8402     95.0252      0        "Cap Ceramic 0.1uF 25V X7R 10% Pad SMD 0402 125C T/R"                                                     
+C12        C0402C104K3RACTU   TopLayer    FP-C0402-BB-MFG           109.9796     94.3959      180      "Cap Ceramic 0.1uF 25V X7R 10% Pad SMD 0402 125C T/R"                                                     
+C13        C0402C104K3RACTU   TopLayer    FP-C0402-BB-MFG           114.5290     98.3570      180      "Cap Ceramic 0.1uF 25V X7R 10% Pad SMD 0402 125C T/R"                                                     
+C15        C0402C104K3RACTU   TopLayer    FP-C0402-BB-MFG           109.7280     101.1244     0        "Cap Ceramic 0.1uF 25V X7R 10% Pad SMD 0402 125C T/R"                                                     
+C11        C0402C104K3RACTU   BottomLayer FP-C0402-BB-MFG           119.4816     97.8916      0        "Cap Ceramic 0.1uF 25V X7R 10% Pad SMD 0402 125C T/R"                                                     
+C16        C0402C104K3RACTU   TopLayer    FP-C0402-BB-MFG           117.6782     101.2397     0        "Cap Ceramic 0.1uF 25V X7R 10% Pad SMD 0402 125C T/R"                                                     
+U4         LSM6DSLTR          TopLayer    FP-LGA-14L-DM00249496-MFG 107.4432     80.1537      90       "IMU ACCEL/GYRO I2C/SPI 14LGA"                                                                            
+R5         RK73H1ETTP1001F    TopLayer    RESC1005X40X25LL10T10     116.9670     82.4230      90       ""                                                                                                        
+R4         RK73H1ETTP1001F    TopLayer    RESC1005X40X25LL10T10     114.8080     82.4230      90       ""                                                                                                        
+D13        LTST-S270KRKT      TopLayer    FP-LTST-S270KRKT-MFG      116.9533     85.8520      90       "LED RED CLEAR CHIP SMD R/A"                                                                              
+D12        LTST-S270KRKT      TopLayer    FP-LTST-S270KRKT-MFG      114.7890     85.8520      90       "LED RED CLEAR CHIP SMD R/A"                                                                              
+D9         150141GS73100      BottomLayer WL-SMTW_3528              112.1410     80.3953      0        ""                                                                                                        
+C4         C0402C104K3RACTU   BottomLayer FP-C0402-BB-MFG           116.8400     96.0882      0        "Cap Ceramic 0.1uF 25V X7R 10% Pad SMD 0402 125C T/R"                                                     
+C1         GRM155R71C104KA88J BottomLayer FP-GRM155-0_05-MFG        99.5393      87.2099      90       ""                                                                                                        

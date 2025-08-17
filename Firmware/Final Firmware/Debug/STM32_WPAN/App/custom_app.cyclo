@@ -1,0 +1,15 @@
+../STM32_WPAN/App/custom_app.c:120:6:Custom_STM_App_Notification	7
+../STM32_WPAN/App/custom_app.c:280:6:Custom_APP_Notification	3
+../STM32_WPAN/App/custom_app.c:321:6:Custom_APP_Init	1
+../STM32_WPAN/App/custom_app.c:359:13:Custom_Bhw_Update_Char	2
+../STM32_WPAN/App/custom_app.c:378:6:Custom_Bhw_Send_Notification	6
+../STM32_WPAN/App/custom_app.c:422:6:Custom_Bhw_Send_Indication	2
+../STM32_WPAN/App/custom_app.c:443:13:Custom_Bhr_Update_Char	2
+../STM32_WPAN/App/custom_app.c:464:6:Custom_Bhr_Send_Notification	4
+../STM32_WPAN/App/custom_app.c:500:6:Custom_Bhr_Send_Indication	2
+../STM32_WPAN/App/custom_app.c:520:13:Custom_Bhrv_Update_Char	2
+../STM32_WPAN/App/custom_app.c:539:6:Custom_Bhrv_Send_Notification	3
+../STM32_WPAN/App/custom_app.c:568:6:Custom_Bhrv_Send_Indication	2
+../STM32_WPAN/App/custom_app.c:594:13:BhwMeas_PeriodicTask	1
+../STM32_WPAN/App/custom_app.c:605:13:FastMeas_PeriodicTask	1
+../STM32_WPAN/App/custom_app.c:616:13:Custom_Fast_Send_Notification	3

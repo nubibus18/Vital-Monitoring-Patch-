@@ -1,0 +1,6 @@
+../Core/Src/LSM6DSL.c:5:19:LSM6DSL_ReadRegister	1
+../Core/Src/LSM6DSL.c:11:19:LSM6DSL_ReadAllRegisters	3
+../Core/Src/LSM6DSL.c:23:19:LSM6DSL_WriteRegister	1
+../Core/Src/LSM6DSL.c:29:19:LSM6DSL_Init	3
+../Core/Src/LSM6DSL.c:51:19:LSM6DSL_ReadFIFO	2
+../Core/Src/LSM6DSL.c:79:6:LSM6DSL_ProcessData	2

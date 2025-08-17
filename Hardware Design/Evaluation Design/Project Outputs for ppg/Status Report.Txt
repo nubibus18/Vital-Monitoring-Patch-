@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ppg.PrjPcb]
+   Generated File[PPG-RoundHoles.TXT]
+   Generated File[PPG-SlotHoles.TXT]
+   Generated File[PPG.LDP]
+   Generated File[PPG.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:09:01 On 10-02-2025

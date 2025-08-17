@@ -1,0 +1,13 @@
+../Core/Src/LSM6DSL.c:72:6:LSM6DSL_I2C_Init	16	static
+../Core/Src/LSM6DSL.c:78:19:LSM6DSL_ReadRegister	32	static
+../Core/Src/LSM6DSL.c:84:19:LSM6DSL_WriteRegister	32	static
+../Core/Src/LSM6DSL.c:90:19:LSM6DSL_ReadMultipleRegisters	32	static
+../Core/Src/LSM6DSL.c:97:19:LSM6DSL_ConfigureDevice	16	static
+../Core/Src/LSM6DSL.c:116:19:LSM6DSL_VerifyConfiguration	16	static
+../Core/Src/LSM6DSL.c:139:19:LSM6DSL_ReadAcceleration	16	static
+../Core/Src/LSM6DSL.c:155:19:LSM6DSL_ReadAngularRate	16	static
+../Core/Src/LSM6DSL.c:172:19:LSM6DSL_CheckFIFOStatus	16	static
+../Core/Src/LSM6DSL.c:187:19:LSM6DSL_ReadFIFO	16	static
+../Core/Src/LSM6DSL.c:210:6:LSM6DSL_ProcessFIFOData	24	static
+../Core/Src/LSM6DSL.c:226:19:LSM6DSL_ReadSensorData	16	static
+../Core/Src/LSM6DSL.c:240:19:LSM6DSL_Initialize	16	static

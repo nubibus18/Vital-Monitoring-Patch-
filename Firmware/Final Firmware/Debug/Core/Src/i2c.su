@@ -1,0 +1,6 @@
+C:/Users/36dhe/STM32Cube/Repository/STM32Cube_FW_WB_V1.21.0/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	24	static
+C:/Users/36dhe/STM32Cube/Repository/STM32Cube_FW_WB_V1.21.0/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:939:22:LL_APB1_GRP1_EnableClock	24	static
+C:/Users/36dhe/STM32Cube/Repository/STM32Cube_FW_WB_V1.21.0/Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:1038:22:LL_APB1_GRP1_DisableClock	16	static
+../Core/Src/i2c.c:30:6:MX_I2C1_Init	8	static
+../Core/Src/i2c.c:73:6:HAL_I2C_MspInit	120	static
+../Core/Src/i2c.c:113:6:HAL_I2C_MspDeInit	16	static

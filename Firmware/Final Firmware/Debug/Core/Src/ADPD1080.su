@@ -1,0 +1,8 @@
+../Core/Src/ADPD1080.c:85:19:ADPD1080_ReadAllRegisters	40	static
+../Core/Src/ADPD1080.c:111:19:ADPD1080_WriteAllRegisters	40	static
+../Core/Src/ADPD1080.c:162:19:ADPD1080_CheckRegisters	24	static
+../Core/Src/ADPD1080.c:183:20:ADPD1080_Read_Buffer	152	static
+../Core/Src/ADPD1080.c:219:19:ADPD1080_Check_FIFO	40	static
+../Core/Src/ADPD1080.c:262:6:ADPD1080_ProcessFIFO	16	static
+../Core/Src/ADPD1080.c:279:19:ADPD1080_LEDoff	40	static
+../Core/Src/ADPD1080.c:300:19:ADPD1080_LEDon	40	static
