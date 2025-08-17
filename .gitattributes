@@ -1,2 +1,6 @@
 Vital_Patch_CAD.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+Firmware/ filter=lfs diff=lfs merge=lfs -text
+Hardware[[:space:]]Design"[[:space:]]./Images filter=lfs diff=lfs merge=lfs -text
+and filter=lfs diff=lfs merge=lfs -text
+Videos" filter=lfs diff=lfs merge=lfs -text
