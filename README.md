@@ -33,7 +33,6 @@ The **Firmware** folder contains:
 
 ---
 
-
 ## 🛠 Hardware Design Files
 
 The **Hardware Design** folder contains:
@@ -59,3 +58,76 @@ The **Hardware Design** folder contains:
 1. Clone this repository  
    ```bash
    git clone https://github.com/balodi182/PPG-BLE-Patch.git
+   ```
+
+---
+
+# Vital Monitoring Patch (VMP)
+
+![Vital Monitoring Patch Poster](poster.png)
+
+## Overview
+The Vital Monitoring Patch (VMP) is a compact, wearable device designed to monitor essential health metrics such as heart rate, SpO2, temperature, sleep quality, and physical activity. Its lightweight and ergonomic design ensure comfort during prolonged use, making it ideal for continuous health monitoring.
+
+---
+
+## Material Selection and Fabrication
+
+### **Casing Material**
+The casing for the VMP is fabricated using **ABS (Acrylonitrile Butadiene Styrene)**, chosen for its:
+- **Lightweight** and **impact-resistant** properties.
+- **Electrical insulation**, ensuring safe housing for electronic components.
+- Compatibility with **3D printing**, enabling rapid prototyping and cost-effective small-batch production.
+- Dimensional stability and ease of post-processing, allowing precision features like slots, holders, and inserts.
+
+---
+
+### **Battery Housing and Power Integration**
+- A custom slot within the casing accommodates a **CR2032 coin cell battery**.
+- A **coin cell holder** secures the battery, ensuring reliable power delivery and easy replacement.
+- The compact design supports the slim profile of the patch, enhancing wearability without discomfort.
+
+---
+
+### **Threading and Assembly**
+- **Heat-set brass inserts** (2.5 mm) are embedded into the ABS casing to provide:
+  - Strong and reusable threading for periodic opening or maintenance.
+  - Enhanced mechanical strength, preventing stripping or loosening of joints.
+
+---
+
+### **Skin Protection and Insulation**
+
+#### **Acrylic Insulation Layer**
+- A **1 mm thick acrylic sheet** is placed between the electronic components and the skin to:
+  - Serve as an **insulative barrier**, ensuring electrical safety.
+  - Provide a smooth surface finish for user comfort.
+  - Minimize risks of electric contact or thermal discomfort during long-term use.
+
+---
+
+### **User Comfort and Biocompatibility**
+
+#### **TPU Overlay for Flexibility**
+- A flexible **TPU (Thermoplastic Polyurethane)** overlay is added to the outermost surface of the casing to:
+  - Enhance skin comfort with its **elasticity**, **softness**, and **skin-friendliness**.
+  - Allow the patch to conform to body contours, reducing pressure points and enabling movement without detachment or discomfort.
+
+#### **Hypoallergenic Adhesive**
+- A **medical-grade hypoallergenic double-sided adhesive** ensures:
+  - Strong adhesion to the skin while minimizing irritation.
+  - Reliable seal between the patch and the body, even during physical movement or perspiration.
+
+---
+
+## Features
+- **Heart Rate Monitoring** (PPG and ECG sensors)
+- **SpO2 Measurement**
+- **Temperature Tracking**
+- **Sleep Quality Analysis**
+- **Activity Tracking** (Accelerometer)
+
+---
+
+## Contact
+For inquiries or collaboration, please reach out to the development team.
