@@ -16,7 +16,7 @@ Built around the **ADPD1080 Analog Front-End** and **STM32WB55 MCU**, it support
 ![PCB Layout Back](Images_and_Videos/PPGModuleSide.png)
 
 ### Assembled Board
-![Assembled Board](Images_and_Videos\STMmodule.jpg)
+![Assembled Board](Images_and_Videos/STMmodule.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ The **Hardware Design** folder contains:
 
 | Raw + Processed PPG Signal | Bandpass (0.5–5 Hz) FFT |
 |----------------------------|------------------------|
-| ![PPG Raw](Results\Pre_and_Post_Filtered_SIgnal.jpg) | ![Bandpass](Results\FFT-Bandpass.jpg) |
+| ![PPG Raw](Results/Pre_and_Post_Filtered_SIgnal.jpg) | ![Bandpass](Results/FFT-Bandpass.jpg) |
 
 ---
 
