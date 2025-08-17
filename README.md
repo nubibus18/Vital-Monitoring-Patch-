@@ -12,11 +12,11 @@ Built around the **ADPD1080 Analog Front-End** and **STM32WB55 MCU**, it support
 - **PCB:** 4-layer, impedance-controlled, Altium design  
 
 ### PCB Layout
-![PCB Layout TOP](Images%20and%20Videos/PPGLEDside.png)
-![PCB Layout Back](Images%20and%20Videos/PPGModuleSide.png)
+![PCB Layout TOP](Images_and_Videos/PPGLEDside.png)
+![PCB Layout Back](Images_and_Videos/PPGModuleSide.png)
 
 ### Assembled Board
-![Assembled Board](Images%20and%20Videos/STMmodule.jpg)
+![Assembled Board](Images_and_Videos\STMmodule.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ The **Hardware Design** folder contains:
 ---
 
 ## 🎥 Assembly Video
-[▶ Watch Assembly Video](Images%20and%20Videos/CompleteDesign.mp4)
+[▶ Watch Assembly Video](Images_and_Videos/CompleteDesign.mp4)
 
 ---
 
@@ -50,7 +50,7 @@ The **Hardware Design** folder contains:
 
 | Raw + Processed PPG Signal | Bandpass (0.5–5 Hz) FFT |
 |----------------------------|------------------------|
-| ![PPG Raw](Results/Pre%20and%20Post%20Filtered%20SIgnal.jpg) | ![Bandpass](Results/FFT-Bandpass.jpg) |
+| ![PPG Raw](Results\Pre_and_Post_Filtered_SIgnal.jpg) | ![Bandpass](Results\FFT-Bandpass.jpg) |
 
 ---
 
@@ -64,7 +64,7 @@ The **Hardware Design** folder contains:
 
 # Vital Monitoring Patch (VMP)
 
-![Vital Monitoring Patch Poster](Poster.png)
+![Vital Monitoring Patch Poster](Images_and_Videos/Poster.png)
 
 ## Overview
 The Vital Monitoring Patch (VMP) is a compact, wearable device designed to monitor essential health metrics such as heart rate, SpO2, temperature, sleep quality, and physical activity. Its lightweight and ergonomic design ensure comfort during prolonged use, making it ideal for continuous health monitoring.
