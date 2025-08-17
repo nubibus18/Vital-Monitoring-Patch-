@@ -64,7 +64,7 @@ The **Hardware Design** folder contains:
 
 # Vital Monitoring Patch (VMP)
 
-![Vital Monitoring Patch Poster](poster.png)
+![Vital Monitoring Patch Poster](Poster.png)
 
 ## Overview
 The Vital Monitoring Patch (VMP) is a compact, wearable device designed to monitor essential health metrics such as heart rate, SpO2, temperature, sleep quality, and physical activity. Its lightweight and ergonomic design ensure comfort during prolonged use, making it ideal for continuous health monitoring.
